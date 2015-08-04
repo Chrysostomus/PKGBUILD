@@ -1,2 +1,2 @@
 # PKGBUILD
-PKGBUILDs for manjaro bspwm respin 
+A collection of PKGBUILDs for manjaro bspwm respin 

@@ -12,7 +12,6 @@ license=("MIT")
 depends=('dmenu-manjaro' 'lemonbar-xft-clicky-git' 'xdotool' 'wmctrl' 'pulseaudio-ctl' 'rxvt-unicode' 'networkmanager-dmenu-git' 'conky-cli' 'xorg-xdpyinfo' 'xtitle')
 optdepends=('bspwm' 'bspwm-scripts')
 makedepends=("git")
-l=$_pkgname.install
 source=(git://github.com/Chrysostomus/lemonpanel)
 md5sums=('SKIP')
 

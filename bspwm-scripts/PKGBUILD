@@ -12,7 +12,6 @@ license=("MIT")
 depends=('dmenu-manjaro' 'bspwm' 'sxhkd' 'xdotool' 'wmctrl' 'wmutils-git' 'xorg-xdpyinfo' 'xtitle' 'xwinfo-git')
 optdepends=()
 makedepends=("git")
-l=$_pkgname.install
 source=(git://github.com/Chrysostomus/bspwm-scripts)
 md5sums=('SKIP')
 
